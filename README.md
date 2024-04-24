@@ -1,5 +1,7 @@
 # SC1015_DSAI_Project
 
+SLIDES: https://docs.google.com/presentation/d/10tMU9WJ-Adf4hhvEEPo-rSXlZhQWJulpwBoNdbNSq28/edit
+
 Project Title: Stroke Prediction Using Machine Learning 
 Objective 
 This project is designed to predict the likelihood of stroke incidents by analyzing medical data. 
